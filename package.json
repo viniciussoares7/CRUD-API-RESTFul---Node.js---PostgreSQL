@@ -9,25 +9,7 @@
     "prepush": "npm run lint",
     "start": "node server.js"
   },
-  "keywords": [
-    "node.js",
-    "javascript",
-    "postgresel",
-    "azure",
-    "serverless",
-    "azure-functions",
-    "azure-devops",
-    "azure-storage",
-    "github-actions",
-    "app-service",
-    "express"
-  ],
-  "author": "Glaucia Lemos",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/glaucia86/nodejs-postgresql-azure/issues"
-  },
-  "homepage": "https://github.com/glaucia86/nodejs-postgresql-azure#readme",
+  
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
